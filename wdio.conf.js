@@ -81,11 +81,11 @@ exports.config = {
         // excludeDriverLogs: ['*'], // pass '*' to exclude all driver session logs
         // excludeDriverLogs: ['bugreport', 'server'],
     },
-    /*{
+    {
         maxInstances: 4,
         browserName: 'firefox',
         acceptInsecureCerts: true
-    }*/
+    }
 ],
     //
     // ===================
